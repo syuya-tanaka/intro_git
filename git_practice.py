@@ -13,3 +13,5 @@ def saiki(x):
 
 
 print(saiki(10))
+
+# git pull コマンドを学んでいます
