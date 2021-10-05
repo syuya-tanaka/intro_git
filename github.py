@@ -5,4 +5,4 @@ def saiki(n):
         return saiki(n - 1) * n
 
 
-print('変更を加えます')
+print("変更を加えます")
