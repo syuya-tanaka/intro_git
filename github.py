@@ -6,3 +6,5 @@ def saiki(n):
 
 
 print("変更を加えます")
+
+# git commit --amend
