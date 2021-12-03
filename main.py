@@ -20,3 +20,5 @@ class SSample(Sample):
 
 xx = SSample()
 xx.sample()
+
+# 変更部分の追加
